@@ -34,7 +34,7 @@ Example
 This command will encrypt the plaintext "mysecretmessage" and will print the ciphertext.
 
 `python3 script.py --key "mysecretkey" --decrypt "gAAAAABeaDY7YGd0F9X9MZQJEZV7k-t_vNz1wW8B5o5PnYJl5fX9xrkP5C5j5J5mI6g=="`
-This command will decrypt the ciphertext "gAAAAABeaDY7YGd0F9X9MZQJEZV7k-t_vNz1wW8B5o5PnYJl5fX9xrkP5C5j5J5mI6g==" and will print the plaintext.
+This command will decrypt the ciphertext `"gAAAAABeaDY7YGd0F9X9MZQJEZV7k-t_vNz1wW8B5o5PnYJl5fX9xrkP5C5j5J5mI6g=="` and will print the plaintext.
 
 You can adjust the script to meet your needs and make sure to use a strong and unique key for encryption and decryption.
 
